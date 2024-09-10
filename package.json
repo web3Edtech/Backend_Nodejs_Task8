@@ -1,12 +1,14 @@
 {
-  "name": "restful-api-crud",
+  "name": "mongodb-crud-nodejs",
   "version": "1.0.0",
-  "description": "A basic RESTful API with CRUD operations using Node.js.",
-  "main": "server.js",
+  "description": "Node.js application to perform CRUD operations with MongoDB",
+  "main": "crudOperations.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node crudOperations.js"
   },
   "author": "NFThing",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
 }
