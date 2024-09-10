@@ -1,0 +1,12 @@
+{
+  "name": "restful-api-crud",
+  "version": "1.0.0",
+  "description": "A basic RESTful API with CRUD operations using Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {}
+}
